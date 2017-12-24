@@ -1,2 +1,2 @@
 # counter
-When launched returns next current or next number.
+When launched returns current or next number.
