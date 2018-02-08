@@ -1,2 +1,2 @@
 #!/bin/bash
-exec /usr/local/bin/counter.py
+exec /usr/local/bin/counter.py $*
